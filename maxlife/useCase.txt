@@ -1,0 +1,18 @@
+1- insert user data
+     controller
+     service 
+     repository 
+     entity
+     create dto get data from postman
+2- fetch user data
+
+3-update user data
+
+4-delete user data/soft delete
+
+5- get user data in list/set
+
+6- map 
+
+
+
